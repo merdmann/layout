@@ -1,2 +1,2 @@
 # layout
- Typescropt port of OWAP
+ Typescript port of OWAP
